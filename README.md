@@ -1,4 +1,4 @@
-![Header](./github-header-banner[este si].png)
+![Header](https://github.com/JorgeCardenasY/JorgeCardenasY/blob/main/github-header-banner%5Beste%20si%5D.png)
 
 [debo especificar que este Banner es una humorada.]
 
