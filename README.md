@@ -85,7 +85,7 @@ Soy un apasionado desarrollador en formación con enfoque en **análisis de dato
 ¡Me encanta conocer a otros desarrolladores y aprender juntos! No dudes en contactarme:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Cárdenas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jorgecardenasy)
-[![Email](https://img.shields.io/badge/Email-jorgecardenasy%40gmail.com-red?style=flat&logo=gmail)](mailto:jorge.cardenas.y@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jorge.cardenas.y%40gmail.com-red?style=flat&logo=gmail)](mailto:jorge.cardenas.y@gmail.com)
 
 ---
 
