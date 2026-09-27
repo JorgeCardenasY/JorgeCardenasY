@@ -4,9 +4,9 @@
 
 # ¡Hola! 👋 Soy Jorge Cárdenas
 
-## 🚀 Desarrollador en Formación | Análisis de Datos & Backend
+## 🚀 Desarrollador | Análisis de Datos & Backend
 
-Soy un apasionado desarrollador en formación con enfoque en **análisis de datos** y desarrollo backend con **Django**. Actualmente estoy construciendo mi camino en el mundo de la tecnología, combinando habilidades técnicas con una gran curiosidad por los datos y su transformación en insights valiosos.
+Soy un apasionado desarrollador con enfoque en **análisis de datos** y desarrollo backend con **Django**. Actualmente estoy combinando habilidades técnicas con una gran curiosidad por los datos y su transformación en insights valiosos.
 
 ---
 
